@@ -1,0 +1,96 @@
+input[type=checkbox].css-checkbox { position: absolute;  overflow: hidden;  clip: rect(0 0 0 0);  height:1px;  width:1px;  margin:-1px;  padding:0; border:0; } 
+input[type=checkbox].css-checkbox + label.css-label { padding-left: 20px; height: 15px; display: inline-block; line-height: 15px; background-repeat: no-repeat; background-position: 0 0; font-size: 15px; vertical-align: middle; cursor: pointer; margin-top: 4px; width: 14px; height: 15px; } 
+input[type=checkbox].css-checkbox:checked + label.css-label { background-position: 0 -15px; }  .css-label{ background-image:url(http://csscheckbox.com/checkboxes/lite-x-red.png); }
+
+input[type=checkbox], input[type=radio] {
+    margin: 4px 0 0;
+    margin-top: 1px\9;
+    line-height: normal;
+    height: 15px;
+}
+
+.title{
+	text-align: center;
+	font-size: 40px;
+	font-family: Georgia, Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	margin-top: 45px;
+	margin-bottom: 35px;
+	text-decoration: underline;
+}
+.desktop_title{
+	color: #1414dd;
+	font-size: ;
+	font-family: ;
+	font-weight: ;
+}
+.mobile_title{
+	color: #e10d0d;
+}
+.mobile_sub_title{
+	color: #e10d0d;
+}
+.common_title{
+	color: #696969;
+}
+.other_title{
+	color: #000000;
+}
+.client{
+	text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+#client_versions{
+	font-size: 16px;
+    font-weight: 500;
+}
+#descritpion_mofo{
+	background-color: #efefef;
+    padding: 30px 50px 15px 50px;
+    border-radius: 0px;
+    text-align: left;
+    margin: 0 auto;
+}
+.rulesofthegame{
+	font-size: 30px;
+	margin-bottom: 0px;
+}
+.rules_copy{
+	text-align: center;
+}
+#sub_headers{
+	font-size: 20px;
+}
+.client_browser{
+	font-size: 20px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: 600;
+	text-align: center;
+	margin-top: 15px;
+}
+.client_version{
+	font-size: 18px;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: 500;
+	text-align: center;
+}
+.copyborder{
+	border: solid;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#extraspace{
+	padding-right: 20px;
+    padding-left: 60px;
+}
+.footer{
+	color: #000000;
+	text-align: left;
+	margin-left: 30px;
+	font-weight:500;
+}
