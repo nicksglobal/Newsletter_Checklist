@@ -8,7 +8,6 @@ input[type=checkbox], input[type=radio] {
     line-height: normal;
     height: 15px;
 }
-
 .title{
 	text-align: center;
 	font-size: 40px;
@@ -87,6 +86,18 @@ input[type=checkbox], input[type=radio] {
 #extraspace{
 	padding-right: 20px;
     padding-left: 60px;
+}
+.note_space{
+	background-color: #ffffff !important;
+	border: 1px solid #000000;
+	border-radius: 10px;
+}
+.notes_input{
+	width: 437px;
+	height: 200px;
+	margin-bottom: 0px;
+	border-radius: 10px;
+	vertical-align: middle;
 }
 .footer{
 	color: #000000;
